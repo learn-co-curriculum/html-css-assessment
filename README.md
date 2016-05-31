@@ -11,10 +11,14 @@ You'll be building on top of the personal website that you've already put togeth
 
 1. Responsiveness should be achieved solely with HTML and CSS.
 2. Your CSS should include no fewer than three `@media` queries.
-3. Your website should have no fewer than five pages.
-4. Each page should include a navigation bar that's easy to use on small and large displays alike.
-5. Your website should take advantage of additional screen real estate on larger displays. Don't cramp your users!
-6. Your website should use tag, class, and id selectors appropriately. (Remember, be only as specific as necessary!)
+3. You should use sprites for rendering icons.
+4. Your website should have no fewer than five pages — unless:
+   1. If you use advanced CSS techniques ([transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions), scroll effects, etc.), your site can span fewer pages.
+   2. A good rule of thumb is that 1 page = 1 fancy CSS effect.
+   3. You could conceivably drop down to just one page — but it should be a _very_ fancy page and navigating around your site should still be clean and easy to do!
+5. Each page should include a navigation bar that's easy to use on small and large displays alike.
+6. Your website should take advantage of additional screen real estate on larger displays. Don't cramp your users!
+7. Your website should use tag, class, and id selectors appropriately. (Remember, be only as specific as necessary!)
 
 ## Instructions
 
