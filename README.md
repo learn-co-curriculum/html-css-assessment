@@ -1,6 +1,16 @@
 Build a Responsive Website
 ---
 
+## Congratulations!!!
+
+Congrats! You have completed all of the lessons for the HTML & CSS: Building Responsive Websites course. I know it was difficult, and I know you struggled but you made it through. Be proud of your accomplishment. Now it's time to show off what you know. 
+
+Below is the final assessment. Completing the assessment, and showing it off to a Learn Instructor is the *last step* to graduation. In this assessment you'll be finishing your personal website and making sure to make it responsive to many device sizes. The goal is to test *everything* you learned while attending this course. Below are a few complexity requirements. These are the minimum you need to do to show you've learned everything. Please do more! Have fun, build something you are supremely proud of and want to show off.
+
+Once you complete the assessment, submit it on the right with a blog post explaining what you did and a video. You will receive a link to sign up for some one on one time with a learn instructor. The Instructor will ask you to walk through your code, and then do a bit live coding. Afterwards, you'll receive a final decision on if you passed or not. If you didn't pass, no worries! We'll give you some extra work to do to fill the gaps in your knowledge and then come on back for another assessment.
+
+We're looking forward to seeing what you build!
+
 ## Overview
 
 In this lesson you're going to build a fully responsive website using HTML and CSS. Your site will render equally well on mobile and desktop browsers, hiding functionality gracefully as the width of the viewport changes.
